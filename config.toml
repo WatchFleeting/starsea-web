@@ -2,7 +2,7 @@
 # ---- General Settings --------------- #
 # ------------------------------------- #
 baseURL = "https://www.showcodeba.com"
-title = "守望流年"
+title = "蓝域星河有限公司集团"
 theme = "hugo-theme-den"
 enableRobotsTXT = true       # generate robots.txt
 enableEmoji = true           # use emoji support
@@ -60,8 +60,8 @@ defaultContentLanguageInSubdir = false
   rssFullContent = true      # set true to use full content instead of summary
 
   # site info (optional)
-  keywords = ["地理", "技术","编程"]
-  description = "一个喜爱地理，技术的可爱学生。"
+  keywords = [ "技术","编程"]
+  description = " "
   logoTitle = " " # shown on top-left, default: title
   siteLogoImage = ""     # shown besides logoTitle
   # headerTitle = "Den"                   # default: title
@@ -133,7 +133,7 @@ defaultContentLanguageInSubdir = false
   weight = 2
 
  [languages.zh-cn.params]
-    description = "一个学生的喃喃自语"
+    description = " "
 
   [[languages.zh-cn.menu.main]]
     name = '<i class="fas fad fa-h-square"></i>主页'
@@ -144,26 +144,7 @@ defaultContentLanguageInSubdir = false
   [[languages.zh-cn.menu.main]]
     name = "<i class='fas fa-laptop-code'></i>文章"
     weight = 20
-    identifier = "文章"
-
-  [[languages.zh-cn.menu.main]]
-    parent = "文章"
-    name = '地理'
-    weight = 1
-    identifier = "geography"
-    url = "category/geography"
-
-  # [[languages.zh-cn.menu.main]]
-  #   name = '<i class="fas fa-network-wired"></i>轻解计算机网络'
-  #   weight = 25
-  #   identifier = "network"
-  #   url = "category/network"     
-
-  [[languages.zh-cn.menu.main]]
-    name = "<i class='fas fa-yin-yang'></i>生活随笔"
-    weight = 10
-    identifier = "notes"
-    url = "category/notes"
+    identifier = "文章"    
 
   [[languages.zh-cn.menu.main]]
     name = "<i class='fas fa-laptop-code'></i>产品"
@@ -197,7 +178,7 @@ defaultContentLanguageInSubdir = false
     url = "https://github.com/WatchFleeting"
 
   [[languages.zh-cn.menu.links]]
-    name = "关于我"
+    name = "关于我们"
     weight = 10
     identifier = "about-me"
     url = "https://github.com/WatchFleeting"
