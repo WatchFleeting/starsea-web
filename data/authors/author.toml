@@ -4,7 +4,7 @@ url = "https://watchfleeting.github.io/starsea-web/"
 display = "守望流年"
 
 [image]
-url = "images/person.jpg"
+url = "images/person.png"
 
 [zh-cn]
 description = " "
