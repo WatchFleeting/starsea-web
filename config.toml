@@ -151,17 +151,44 @@ defaultContentLanguageInSubdir = false
     weight = 30
     identifier = "产品"
 
+   [[languages.zh-cn.menu.main]]
+    parent = "产品"
+    name = "<i class='fas fa-laptop-code'></i>Starsea OS"
+    weight = 10
+    identifier = "Starsea OS"
+
+  [[languages.zh-cn.menu.main]]
+    parent = "Starsea OS"
+    name = '核心组件'
+    weight = 10
+    identifier = "Core components"
+    url = "category/components"
+
+  [[languages.zh-cn.menu.main]]
+    parent = "Starsea OS"
+    name = '应用商店'
+    weight = 20
+    identifier = "Apply shop"
+    url = "category/components"
+
+    [[languages.zh-cn.menu.main]]
+    parent = "Starsea OS"
+    name = '开发日志'
+    weight = 30
+    identifier = "Date"
+    url = "category/date"
+    
   [[languages.zh-cn.menu.main]]
     parent = "产品"
     name = '牙线报'
-    weight = 10
+    weight = 20
     identifier = "newspaper"
     url = "category/newspaper"
 
   [[languages.zh-cn.menu.main]]
     parent = "产品"
     name = '星雨机器人'
-    weight = 20
+    weight = 30
     identifier = "robot"
     url = "category/robot"
 
