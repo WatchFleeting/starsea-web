@@ -178,14 +178,14 @@ defaultContentLanguageInSubdir = false
     identifier = "其他产品"
 
   [[languages.zh-cn.menu.main]]
-    parent = "产品"
+    parent = "其他产品"
     name = '牙线报'
     weight = 20
     identifier = "newspaper"
     url = "category/newspaper"
 
   [[languages.zh-cn.menu.main]]
-    parent = "产品"
+    parent = "其他产品"
     name = '星雨机器人'
     weight = 40
     identifier = "robot"
