@@ -165,11 +165,11 @@ defaultContentLanguageInSubdir = false
     identifier = "robot"
     url = "category/robot"
 
- [[languages.zh-cn.menu.main]]
-    name = '<i class="fas fad fa-h-square"></i>主页'
+  [[languages.zh-cn.menu.main]]
+    name = '<i class="fas fad fa-h-square"></i>未归档'
     weight = 1
-    identifier = "home"
-    url = "category/picture"
+    identifier = "other"
+    url = "category/other"
 
   [[languages.zh-cn.menu.social]]
     name = "GitHub"
