@@ -146,15 +146,9 @@ defaultContentLanguageInSubdir = false
     weight = 20
     identifier = "文章"    
 
-  [[languages.zh-cn.menu.main]]
-    name = "<i class='fas fa-laptop-code'></i>产品"
-    weight = 30
-    identifier = "产品"
-
-   [[languages.zh-cn.menu.main]]
-    parent = "产品"
+ [[languages.zh-cn.menu.main]]
     name = "<i class='fas fa-laptop-code'></i>Starsea OS"
-    weight = 10
+    weight = 30
     identifier = "Starsea OS"
 
   [[languages.zh-cn.menu.main]]
@@ -177,7 +171,12 @@ defaultContentLanguageInSubdir = false
     weight = 30
     identifier = "Log"
     url = "category/log"
-    
+  
+  [[languages.zh-cn.menu.main]]
+    name = "<i class='fas fa-laptop-code'></i>其他产品"
+    weight = 30
+    identifier = "其他产品"
+
   [[languages.zh-cn.menu.main]]
     parent = "产品"
     name = '牙线报'
@@ -188,13 +187,13 @@ defaultContentLanguageInSubdir = false
   [[languages.zh-cn.menu.main]]
     parent = "产品"
     name = '星雨机器人'
-    weight = 30
+    weight = 40
     identifier = "robot"
     url = "category/robot"
 
   [[languages.zh-cn.menu.main]]
     name = '<i class="fas fad fa-h-square"></i>未归档'
-    weight = 40
+    weight = 50
     identifier = "other"
     url = "category/other"
 
