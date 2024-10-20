@@ -139,7 +139,7 @@ defaultContentLanguageInSubdir = false
     name = '<i class="fas fad fa-h-square"></i>主页'
     weight = 1
     identifier = "home"
-    url = "/"
+    url = "watchfleeting.github.io/starsea-web/"
 
   [[languages.zh-cn.menu.main]]
     name = "<i class='fas fa-laptop-code'></i>文章"
@@ -156,7 +156,7 @@ defaultContentLanguageInSubdir = false
     name = '牙线报'
     weight = 10
     identifier = "newspaper"
-    url = "category/SpringCloud"
+    url = "category/newspaper"
 
   [[languages.zh-cn.menu.main]]
     parent = "产品"
