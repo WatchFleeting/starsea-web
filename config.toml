@@ -1,7 +1,7 @@
 # ------------------------------------- #
 # ---- General Settings --------------- #
 # ------------------------------------- #
-baseURL = "https://www.showcodeba.com"
+baseURL = "https://watchfleeting.github.io/starsea-web/"
 title = "蓝域星河"
 theme = "hugo-theme-den"
 enableRobotsTXT = true       # generate robots.txt
