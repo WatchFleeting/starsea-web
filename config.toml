@@ -175,8 +175,8 @@ defaultContentLanguageInSubdir = false
     parent = "Starsea OS"
     name = '开发日志'
     weight = 30
-    identifier = "Date"
-    url = "category/date"
+    identifier = "Log"
+    url = "category/log"
     
   [[languages.zh-cn.menu.main]]
     parent = "产品"
