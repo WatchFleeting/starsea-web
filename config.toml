@@ -155,15 +155,15 @@ defaultContentLanguageInSubdir = false
     parent = "Starsea OS"
     name = '核心组件'
     weight = 10
-    identifier = "Core components"
+    identifier = "components"
     url = "category/components"
 
   [[languages.zh-cn.menu.main]]
     parent = "Starsea OS"
     name = '应用商店'
     weight = 20
-    identifier = "Apply shop"
-    url = "category/components"
+    identifier = "starsea-store"
+    url = "https://watchfleeting.github.io/starsea-store/"
 
     [[languages.zh-cn.menu.main]]
     parent = "Starsea OS"
