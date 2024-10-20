@@ -180,7 +180,7 @@ defaultContentLanguageInSubdir = false
   [[languages.zh-cn.menu.links]]
     name = "关于我们"
     weight = 10
-    identifier = "about-me"
+    identifier = "about-us"
     url = "https://github.com/WatchFleeting"
 
 
