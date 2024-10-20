@@ -44,7 +44,7 @@ defaultContentLanguageInSubdir = false
   pages = "/:slug/"
 
 [author]                     # required
-  name = "蓝域星河有限公司集团"
+  name = "蓝域星河"
 
 [sitemap]                    # required
   changefreq = "daily"
