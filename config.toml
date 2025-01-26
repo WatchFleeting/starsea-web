@@ -79,7 +79,7 @@ defaultContentLanguageInSubdir = false
   # paginateOriginalStyle = true
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2024-001"
+  dateFormatToUse = "24-001"
 
   # google_verification = "google57680cd58c46e2f3.html"  # Google_Verification
 
