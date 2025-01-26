@@ -76,10 +76,10 @@ defaultContentLanguageInSubdir = false
 
   # paginate style, default use numbered pagination links
   # if true, use original "Previous" and "Next" links.
-  # paginateOriginalStyle = true
+  paginateOriginalStyle = true
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  # dateFormatToUse = " "
+  dateFormatToUse = "@蓝域星河有限公司集团"
 
   # google_verification = "google57680cd58c46e2f3.html"  # Google_Verification
 
