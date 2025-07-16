@@ -79,7 +79,7 @@ defaultContentLanguageInSubdir = false
   paginateOriginalStyle = true
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "@蓝域星河有限公司集团"
+  dateFormatToUse = "9999-9-9"
 
   # google_verification = "google57680cd58c46e2f3.html"  # Google_Verification
 
@@ -181,10 +181,10 @@ defaultContentLanguageInSubdir = false
 
   [[languages.zh-cn.menu.main]]
     parent = "其他产品"
-    name = '星雨机器人'
+    name = '星云数据库'
     weight = 30
-    identifier = "robot"
-    url = "category/robot"
+    identifier = "nebula"
+    url = "http://nebula.web1.webosfrp.asia:40030/"
 
   [[languages.zh-cn.menu.main]]
     name = '<i class="fas fad fa-h-square"></i>未归档'
